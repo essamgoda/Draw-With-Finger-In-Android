@@ -12,6 +12,6 @@ Screen Shot
 
 ![screen one](https://raw.githubusercontent.com/essamgoda/Draw-With-Finger-In-Android/master/ScreenShot/Screenshot-1.png)
 
-![screen two](https://raw.githubusercontent.com/essamgoda/Draw-With-Finger-In-Android/master/ScreenShot/Screenshot-1.png)
+![screen two](https://raw.githubusercontent.com/essamgoda/Draw-With-Finger-In-Android/master/ScreenShot/Screenshot-2.png)
 
-![screen three](https://raw.githubusercontent.com/essamgoda/Draw-With-Finger-In-Android/master/ScreenShot/Screenshot-1.png)
+![screen three](https://raw.githubusercontent.com/essamgoda/Draw-With-Finger-In-Android/master/ScreenShot/Screenshot-3.png)
