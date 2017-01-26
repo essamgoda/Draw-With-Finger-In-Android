@@ -10,7 +10,7 @@ Draw with Finger is the paint android application in which you can make a drawin
 Screen Shot
 -------------
 
-![screen one](Draw-With-Finger-In-Android/ScreenShot/Screenshot-1.png)
+![screen one](https://github.com/essamgoda/Draw-With-Finger-In-Android/blob/master/ScreenShot/Screenshot-1.png)
 
 ![screen two](https://github.com/essamgoda/Draw-With-Finger-In-Android/blob/master/ScreenShot/Screenshot-2.png)
 
